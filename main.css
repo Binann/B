@@ -1,0 +1,50 @@
+#a
+{
+    font-size: 20px;
+    text-align: center;
+}
+.box3
+{
+    text-align: center;
+    margin: 0 auto;
+    font-size: 25px;
+    width: 200px;
+    height: 60px;
+    background-color: blueviolet;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.a
+{
+    font-size: 50px;
+    text-align: center;
+}
+.b 
+{
+    color: blue;
+}
+
+.Box
+{   
+    color: aliceblue;
+    float:left;
+    font-size: 20px;
+    width: 200px;
+    height: 60px;
+    background-color: rgb(20, 6, 33);
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.Box1
+{
+    margin-left: 35%;
+}
+.Box2
+{
+    margin-left: 2em;
+}
