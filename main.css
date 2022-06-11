@@ -10,7 +10,7 @@
     font-size: 25px;
     width: 200px;
     height: 60px;
-    background-color: blueviolet;
+    background-color:   rgb(101, 120, 242);
     text-align: center;
     display: flex;
     align-items: center;
@@ -31,7 +31,7 @@
     color: aliceblue;
     float:left;
     font-size: 20px;
-    width: 200px;
+    width: 14%;
     height: 60px;
     background-color: rgb(20, 6, 33);
     text-align: center;
@@ -46,5 +46,6 @@
 }
 .Box2
 {
-    margin-left: 2em;
+    margin-left:2%;
+    margin
 }
